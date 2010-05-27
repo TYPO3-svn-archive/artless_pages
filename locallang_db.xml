@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'artless_pages'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pages.tx_artlesspages_crdate">Creation date:</label>
+			<label index="pages.tx_artlesspages_startdate">Start date:</label>
+			<label index="pages.tx_artlesspages_enddate">End date:</label>
+			<label index="pages.tx_artlesspages_authors">Authors:</label>
+			<label index="pages.tx_artlesspages_categories">Categories:</label>
+			<label index="pages.tx_artlesspages_enable_comments">Enable comments:</label>
+			<label index="pages.tx_artlesspages_price">Price:</label>
+			<label index="pages.tx_artlesspages_quantity">Quantity:</label>
+			<label index="pages.tx_artlesspages_orders">Orders:</label>
+			<label index="tx_artlesspages_relation">Page Relation</label>
+			<label index="tx_artlesspages_relation.target">Target</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="pages.tx_artlesspages_crdate">Erstellungsdatum:</label>
+			<label index="pages.tx_artlesspages_startdate">Anfangsdatum:</label>
+			<label index="pages.tx_artlesspages_enddate">Enddatum:</label>
+			<label index="pages.tx_artlesspages_authors">Autoren:</label>
+			<label index="pages.tx_artlesspages_categories">Kategorien:</label>
+			<label index="pages.tx_artlesspages_enable_comments">Kommentare erlauben:</label>
+			<label index="pages.tx_artlesspages_price">Preis:</label>
+			<label index="pages.tx_artlesspages_quantity">Anzahl:</label>
+			<label index="pages.tx_artlesspages_orders">Bestellungen:</label>
+			<label index="tx_artlesspages_relation">Seitenrelation</label>
+			<label index="tx_artlesspages_relation.target">Ziel</label>
+		</languageKey>
+	</data>
+</T3locallang>

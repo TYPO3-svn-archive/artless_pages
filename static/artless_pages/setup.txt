@@ -1,0 +1,2 @@
+### views ###
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.ProjectListView.ts">
