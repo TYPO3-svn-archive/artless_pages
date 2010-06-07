@@ -1,2 +1,11 @@
+### ul ###
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.ul.Pager.ts">
+
+### models ###
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.models.Comment.ts">
+
 ### views ###
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.ProjectListView.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.views.CommentList.ts">
+
+### forms ###
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.forms.Comment.ts">
