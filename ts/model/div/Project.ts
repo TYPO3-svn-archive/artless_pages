@@ -16,7 +16,7 @@ A.model.div.Project {
 	400 = TEXT
 	400 {
 		value = Jon Steinfeld
-		wrap = <p>|</p>
+		wrap = <p class="A_authors">|</p>
 	}
 	
 }
