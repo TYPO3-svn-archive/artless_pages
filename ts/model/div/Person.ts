@@ -10,4 +10,6 @@ A.model.div.Person {
 		
 	}
 	
+	300 >
+	
 }
