@@ -10,4 +10,13 @@ A.model.div.Project {
 		
 	}
 	
+	300 >
+	
+	400 >
+	400 = TEXT
+	400 {
+		value = Jon Steinfeld
+		wrap = <p>|</p>
+	}
+	
 }
