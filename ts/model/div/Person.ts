@@ -12,4 +12,10 @@ A.model.div.Person {
 	
 	300 >
 	
+	400 >
+	400 = TEXT
+	400 {
+		value = <p class="hide">Designer</p>
+	}
+	
 }
