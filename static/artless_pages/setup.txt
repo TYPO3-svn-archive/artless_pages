@@ -1,3 +1,16 @@
+### model
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/model/div/Person.ts">
+
+
+
+
+
+
+
+
+
+
+
 ### ul ###
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.ul.Pager.ts">
 
