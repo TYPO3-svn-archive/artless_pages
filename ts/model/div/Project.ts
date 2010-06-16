@@ -22,6 +22,6 @@ A.model.div.Project {
 	600 = TEXT
 	600 {
 		value = <i>Category</i> <a href="#">Illustration</a>, <a href="#">Design</a>, <a href="#">Architecture</a>
-		wrap = <p class="A_categories">|</p>
+		wrap = <p class="A_categories hide">|</p>
 	}
 }
