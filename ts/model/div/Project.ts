@@ -19,4 +19,9 @@ A.model.div.Project {
 		wrap = <p class="A_authors">|</p>
 	}
 	
+	600 = TEXT
+	600 {
+		value = <i>Category</i> <a href="#">Illustration</a>, <a href="#">Design</a>, <a href="#">Architecture</a>
+		wrap = <p class="A_categories">|</p>
+	}
 }
