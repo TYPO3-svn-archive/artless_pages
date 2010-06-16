@@ -15,7 +15,7 @@ A.model.div.Project {
 	400 >
 	400 = TEXT
 	400 {
-		value = Robert Klein, Dirk Reinbold, Axel Rupp & Jon Steinfeld
+		value = <i>by</i> <a href="#">Robert Klein</a>, <a href="#">Dirk Reinbold</a>, <a href="#">Axel Rupp</a>, <a href="#">Jon Steinfeld</a>
 		wrap = <p class="A_authors">|</p>
 	}
 	
