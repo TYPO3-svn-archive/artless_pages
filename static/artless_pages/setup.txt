@@ -4,7 +4,8 @@
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/model/div/Project.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/model/div/Product.ts">
 
-
+### view
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/view/p/Authors.ts">
 
 
 
