@@ -13,7 +13,7 @@ A.model.div.Project {
 	300 >
 	
 	400 >
-	400 =< A.view.p.Authors
+	400 < A.view.p.Authors
 	#400 {
 	#	value = <i>by</i> <a href="#">Robert Klein</a>, <a href="#">Dirk Reinbold</a>, <a href="#">Axel Rupp</a>, <a href="#">Jon Steinfeld</a>
 	#	wrap = <p class="A_authors">|</p>
