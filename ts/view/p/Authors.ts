@@ -2,13 +2,11 @@ A.view.p.Authors = HMENU
 A.view.p.Authors {
 	
 	special = keywords
-	special {
-		keywordsField = tx_artlesspages_authors
-		keywordsField.sourceField = uid
-		mode = title
-	}
+	special.keywordsField = tx_artlesspages_authors
+	special.keywordsField.sourceField = uid
+	special.mode = title
 	
-	1 = HMENU
+	1 = TMENU
 	1 {
 		
 		wrap = <p class="A_authors">|</p>
