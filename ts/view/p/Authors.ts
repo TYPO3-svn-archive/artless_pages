@@ -15,7 +15,7 @@ A.view.p.Authors {
 		
 		NO = 1
 		NO {
-			noTrimWrap = <span>|</span>
+			allWrap = <span>|</span>
 		}
 		
 	}
