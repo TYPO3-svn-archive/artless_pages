@@ -3,8 +3,8 @@ A.view.p.Authors {
 	
 	special = keywords
 	special {
-		keywordsField = uid
-		keywordsField.sourceField = tx_artlesspages_authors
+		keywordsField = tx_artlesspages_authors
+		keywordsField.sourceField = uid
 		mode = title
 	}
 	
