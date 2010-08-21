@@ -1,14 +1,11 @@
-### view
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/view/p/Authors.ts">
+### element
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/ul/Authors.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/ul/Categories.ts">
 
 ### model
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/model/div/Post.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/model/div/Person.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/model/div/Project.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/model/div/Product.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/model/Page.ts">
 
-
-
+### view
 
 
 
@@ -17,13 +14,13 @@
 
 
 ### ul ###
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.ul.Pager.ts">
+# <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.ul.Pager.ts">
 
 ### models ###
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.models.Comment.ts">
+# <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.models.Comment.ts">
 
 ### views ###
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.views.CommentList.ts">
+# <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.views.CommentList.ts">
 
 ### forms ###
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.forms.Comment.ts">
+# <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.forms.Comment.ts">
