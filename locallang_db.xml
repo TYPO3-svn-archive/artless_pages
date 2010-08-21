@@ -15,8 +15,7 @@
 			<label index="pages.tx_artlesspages_price">Price:</label>
 			<label index="pages.tx_artlesspages_quantity">Quantity:</label>
 			<label index="pages.tx_artlesspages_orders">Orders:</label>
-			<label index="tx_artlesspages_relation">Page Relation</label>
-			<label index="tx_artlesspages_relation.target">Target</label>
+			<label index="pages.tx_artlesspages_place">Place:</label>
 		</languageKey>
 		<languageKey index="de" type="array">
 			<label index="pages.tx_artlesspages_crdate">Erstellungsdatum:</label>
@@ -28,8 +27,7 @@
 			<label index="pages.tx_artlesspages_price">Preis:</label>
 			<label index="pages.tx_artlesspages_quantity">Anzahl:</label>
 			<label index="pages.tx_artlesspages_orders">Bestellungen:</label>
-			<label index="tx_artlesspages_relation">Seitenrelation</label>
-			<label index="tx_artlesspages_relation.target">Ziel</label>
+			<label index="pages.tx_artlesspages_place">Ort:</label>
 		</languageKey>
 	</data>
 </T3locallang>
