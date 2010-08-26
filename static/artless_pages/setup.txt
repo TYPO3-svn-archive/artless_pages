@@ -2,6 +2,7 @@
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/span/CreationDate.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/span/RelatedPages.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/ul/RelatedPages.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/ul/RelatedPagesMenu.ts">
 
 ### model
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/model/Page.ts">
