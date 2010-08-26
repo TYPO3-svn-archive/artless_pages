@@ -1,0 +1,1 @@
+A.view.div.PageListLatest.1.alternativeSortingField = tx_artlesspages_crdate desc

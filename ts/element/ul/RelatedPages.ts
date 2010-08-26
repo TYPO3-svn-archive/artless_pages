@@ -1,5 +1,5 @@
-A.element.ul.Categories = HMENU
-A.element.ul.Categories {
+A.element.ul.RelatedPages = HMENU
+A.element.ul.RelatedPages {
 	
 	special = list
 	special.value.field = tx_artlesspages_categories
@@ -7,7 +7,7 @@ A.element.ul.Categories {
 	1 = TMENU
 	1 {
 		
-		wrap = <ul class="A_categories">|</ul>
+		wrap = <ul class="A_relatedpages">|</ul>
 		
 		NO = 1
 		NO {

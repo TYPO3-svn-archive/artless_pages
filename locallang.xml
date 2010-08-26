@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<description>Language labels for artless_pages</description>
+		<type>module</type>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="A.element.span.RelatedPages.comma">, </label>
+			<label index="A.element.span.RelatedPages.and"> and </label>
+			<label index="pages.tx_artlesspages_authors.prefix">Work by</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="A.element.span.RelatedPages.and">_und_</label>
+			<label index="pages.tx_artlesspages_authors.prefix">Arbeit von</label>
+		</languageKey>
+	</data>
+</T3locallang>

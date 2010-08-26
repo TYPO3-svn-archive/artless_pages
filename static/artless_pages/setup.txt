@@ -1,20 +1,20 @@
 ### element
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/ul/Authors.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/ul/Categories.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/span/CreationDate.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/span/RelatedPages.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/ul/RelatedPages.ts">
 
 ### model
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/model/Page.ts">
 
 ### view
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/view/div/PageListLatest.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/view/div/PageListUpcomingItem.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/view/div/PageListUpcoming.ts">
 
 
 
 
 
-
-
-### ul ###
-# <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.ul.Pager.ts">
 
 ### models ###
 # <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/A.models.Comment.ts">
