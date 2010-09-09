@@ -8,12 +8,10 @@
 		<languageKey index="default" type="array">
 			<label index="A.element.span.RelatedPages.comma">, </label>
 			<label index="A.element.span.RelatedPages.and"> and </label>
-			<label index="pages.tx_artlesspages_authors.prefix">Work by</label>
 		</languageKey>
 		<languageKey index="de" type="array">
 			<label index="A.element.span.RelatedPages.comma">, </label>
 			<label index="A.element.span.RelatedPages.and"> und </label>
-			<label index="pages.tx_artlesspages_authors.prefix">Arbeit von</label>
 		</languageKey>
 	</data>
 </T3locallang>

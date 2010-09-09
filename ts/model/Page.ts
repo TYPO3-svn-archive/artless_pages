@@ -9,8 +9,8 @@ A.model.Page {
 			stdWrap.fieldRequired = tx_artlesspages_authors
 			stdWrap.prepend = TEXT
 			stdWrap.prepend {
-				data = LLL:EXT:artless_pages/locallang.xml:pages.tx_artlesspages_authors.prefix
-				wrap = <span>|</span>&nbsp;
+				data = LLL:EXT:artless_pages/locallang_db.xml:pages.tx_artlesspages_authors
+				wrap = <span class="A_prefix">|</span>
 			}
 		}
 		
