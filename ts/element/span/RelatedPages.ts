@@ -11,7 +11,7 @@ A.element.span.RelatedPages {
 		
 		NO = 1
 		NO {
-			allWrap = <span>|</span>{LLL:EXT:artless_pages/locallang.xml:A.element.span.RelatedPages.comma}|*|<span>|</span>{LLL:EXT:artless_pages/locallang.xml:A.element.span.RelatedPages.comma}|*|<span>|</span>{LLL:EXT:artless_pages/locallang.xml:A.element.span.RelatedPages.and}||<span>|</span>
+			allWrap = <span>|</span><span class="A_comma">{LLL:EXT:artless_pages/locallang.xml:A.element.span.RelatedPages.comma}</span>|*|<span>|</span><span class="A_comma">{LLL:EXT:artless_pages/locallang.xml:A.element.span.RelatedPages.comma}</span>|*|<span>|</span><span class="A_and">{LLL:EXT:artless_pages/locallang.xml:A.element.span.RelatedPages.and}</span>||<span>|</span>
 			allWrap.insertData = 1
 		}
 		
