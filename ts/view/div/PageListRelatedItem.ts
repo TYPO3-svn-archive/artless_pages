@@ -1,0 +1,1 @@
+A.view.div.PageListRelatedItem =< A.view.div.PageListItem

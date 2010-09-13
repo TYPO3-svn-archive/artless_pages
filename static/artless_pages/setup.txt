@@ -11,6 +11,8 @@
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/view/div/PageListLatest.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/view/div/PageListUpcomingItem.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/view/div/PageListUpcoming.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/view/div/PageListRelatedItem.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/view/div/PageListRelated.ts">
 
 
 
