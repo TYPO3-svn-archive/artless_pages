@@ -11,9 +11,9 @@
 			<label index="pages.tx_artlesspages_images">Images:</label>
 			<label index="pages.tx_artlesspages_startdate">Start date:</label>
 			<label index="pages.tx_artlesspages_enddate">End date:</label>
-			<label index="pages.tx_artlesspages_authors">Authors:</label>
-			<label index="pages.tx_artlesspages_categories">Categories:</label>
-			<label index="pages.tx_artlesspages_links">Links:</label>
+			<label index="pages.tx_artlesspages_authors">Authors: </label>
+			<label index="pages.tx_artlesspages_categories">Categories: </label>
+			<label index="pages.tx_artlesspages_links">Links: </label>
 			<label index="pages.tx_artlesspages_enable_comments">Enable comments:</label>
 			<label index="pages.tx_artlesspages_price">Price:</label>
 			<label index="pages.tx_artlesspages_quantity">Quantity:</label>
@@ -26,9 +26,9 @@
 			<label index="pages.tx_artlesspages_images">Bilder:</label>
 			<label index="pages.tx_artlesspages_startdate">Anfangsdatum:</label>
 			<label index="pages.tx_artlesspages_enddate">Enddatum:</label>
-			<label index="pages.tx_artlesspages_authors">Autoren:</label>
-			<label index="pages.tx_artlesspages_categories">Kategorien:</label>
-			<label index="pages.tx_artlesspages_links">Verweise:</label>
+			<label index="pages.tx_artlesspages_authors">Autoren: </label>
+			<label index="pages.tx_artlesspages_categories">Kategorien: </label>
+			<label index="pages.tx_artlesspages_links">Verweise: </label>
 			<label index="pages.tx_artlesspages_enable_comments">Kommentare erlauben:</label>
 			<label index="pages.tx_artlesspages_price">Preis:</label>
 			<label index="pages.tx_artlesspages_quantity">Anzahl:</label>
