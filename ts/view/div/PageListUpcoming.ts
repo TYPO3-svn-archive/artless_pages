@@ -9,7 +9,7 @@ A.view.div.PageListUpcoming {
 	
 	1 {
 		
-		alternativeSortingField = tx_artlesspages_startdate asc
+		alternativeSortingField = tx_artlesspages_startdate desc
 		
 		NO.before.cObject =< A.view.div.PageListUpcomingItem
 		
