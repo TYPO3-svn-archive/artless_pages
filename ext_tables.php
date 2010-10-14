@@ -74,6 +74,11 @@ $tempColumns = array(
 			'size' => 5,
 			'minitems' => 0,
 			'maxitems' => 20,
+			'wizards' => array(
+				'suggest' => array(
+					'type' => 'suggest',
+				),
+			),
 		)
 	),
 	'tx_artlesspages_categories' => array(
@@ -86,6 +91,11 @@ $tempColumns = array(
 			'size' => 5,	
 			'minitems' => 0,
 			'maxitems' => 20,
+			'wizards' => array(
+				'suggest' => array(
+					'type' => 'suggest',
+				),
+			),
 		)
 	),
 	'tx_artlesspages_links' => array(
@@ -98,6 +108,11 @@ $tempColumns = array(
 			'size' => 5,	
 			'minitems' => 0,
 			'maxitems' => 20,
+			'wizards' => array(
+				'suggest' => array(
+					'type' => 'suggest',
+				),
+			),
 		)
 	),
 	'tx_artlesspages_enable_comments' => array(
