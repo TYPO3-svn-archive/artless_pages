@@ -44,16 +44,22 @@ A.model.Page {
 		stdWrap.fieldRequired = tx_artlesspages_links
 	}
 	
+	dateStart =< A.element.span.Date
+	dateStart {
+		field = tx_artlesspages_startdate
+	}
+	
+	dateEnd =< A.element.span.Date
+	dateEnd {
+		field = tx_artlesspages_enddate
+	}
+	
 	datePeriod = COA
 	datePeriod {
 		wrap = <p class="A_dateperiod">|</p>
-		100 =< A.element.span.Date
-		100 {
-			field = tx_artlesspages_startdate
-		}
-		200 =< A.element.span.Date
+		100 =< A.model.Page.dateStart
+		200 =< A.model.Page.dateEnd
 		200 {
-			field = tx_artlesspages_enddate
 			noTrimWrap = | – ||
 			# hide this for "one day periods"
 		}

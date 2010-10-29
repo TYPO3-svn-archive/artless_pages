@@ -1,6 +1,5 @@
 ### element
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/img/Image.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/span/CreationDate.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/span/RelatedPages.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/ul/RelatedPages.ts">
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:artless_pages/ts/element/ul/RelatedPagesMenu.ts">
